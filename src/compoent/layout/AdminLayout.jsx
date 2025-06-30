@@ -1,8 +1,4 @@
 import React from "react";
-import Footer from "./Footer";
-import Sidebar from "./Sidebar";
-import NAvbar from "./NAvbar";
-import Navbar from "./NAvbar";
 
 const AdminLayout = () => {
   return (
